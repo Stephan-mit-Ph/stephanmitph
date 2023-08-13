@@ -1,7 +1,30 @@
 {
   "compilerOptions": {
+    "target": "es5",
+    "lib": ["dom", "dom.iterable", "esnext"],
+    "allowJs": true,
+    "skipLibCheck": true,
+    "strict": false,
+    "forceConsistentCasingInFileNames": true,
+    "noEmit": true,
+    "incremental": true,
+    "esModuleInterop": true,
+    "module": "esnext",
+    "moduleResolution": "node",
+    "resolveJsonModule": true,
+    "isolatedModules": true,
+    "jsx": "preserve",
+    "baseUrl": ".",
     "paths": {
-      "@/*": ["./src/*"]
+      "@/*": ["/src/*"],
+      "@/components/*": ["/src/components/*"],
+      "@/lib/*": ["/src/lib/*"],
+      "@/ui/*": ["/src/ui/*"],
+      "@/styles/*": ["/src/styles/*"],
+      "@/public/*": ["../../public/*"],
+      "@/hooks/*": ["/src/hooks/*"]
     }
-  }
+  },
+  "include": ["src", "src/ui/Paragraphs", "src/ui/Paragraphs/Text"],
+  "exclude": ["node_modules"]
 }

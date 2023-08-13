@@ -1,0 +1,33 @@
+export const spacing = `
+--space-4xs: clamp(0.00rem, calc(0.00rem + 0.00vw), 0.00rem);
+--space-3xs: clamp(0.25rem, calc(0.23rem + 0.09vw), 0.31rem);
+--space-2xs: clamp(0.50rem, calc(0.43rem + 0.28vw), 0.69rem);
+--space-xs: clamp(0.75rem, calc(0.66rem + 0.38vw), 1.00rem);
+--space-s: clamp(1.00rem, calc(0.89rem + 0.47vw), 1.31rem);
+--space-m: clamp(1.50rem, calc(1.32rem + 0.75vw), 2.00rem);
+--space-l: clamp(2.00rem, calc(1.78rem + 0.94vw), 2.63rem);
+--space-xl: clamp(3.00rem, calc(2.67rem + 1.41vw), 3.94rem);
+--space-2xl: clamp(4.00rem, calc(3.56rem + 1.88vw), 5.25rem);
+--space-3xl: clamp(6.00rem, calc(5.34rem + 2.82vw), 7.88rem);
+--space-3xs-2xs: clamp(0.25rem, calc(0.10rem + 0.66vw), 0.69rem);
+--space-2xs-xs: clamp(0.50rem, calc(0.32rem + 0.75vw), 1.00rem);
+--space-xs-s: clamp(0.75rem, calc(0.55rem + 0.85vw), 1.31rem);
+--space-s-m: clamp(1.00rem, calc(0.65rem + 1.50vw), 2.00rem);
+--space-m-l: clamp(1.50rem, calc(1.10rem + 1.69vw), 2.63rem);
+--space-l-xl: clamp(2.00rem, calc(1.32rem + 2.91vw), 3.94rem);
+--space-xl-2xl: clamp(3.00rem, calc(2.21rem + 3.38vw), 5.25rem);
+--space-2xl-3xl: clamp(4.00rem, calc(2.64rem + 5.82vw), 7.88rem);
+--space-2xs-m: clamp(0.50rem, calc(-0.03rem + 2.25vw), 2.00rem);
+--space-3xs-s: clamp(0.25rem, calc(-0.12rem + 1.60vw), 1.31rem);
+--space-xs-m: clamp(0.75rem, calc(0.31rem + 1.88vw), 2.00rem);
+--space-4xs-m: clamp(0.00rem, calc(-0.70rem + 3.00vw), 2.00rem);
+--space-xl-s: clamp(1.31rem, calc(3.59rem + -2.54vw), 3.00rem);
+--space-s-l: clamp(1.00rem, calc(0.43rem + 2.44vw), 2.63rem);
+--space-m-xl: clamp(1.50rem, calc(0.64rem + 3.66vw), 3.94rem);
+--width: clamp(21.875rem, 9.947rem + 50.892vw, 55.75rem);
+--icon-size: clamp(1.75rem, 1.31rem + 1.878vw, 3rem);
+--size-m: 2rem;
+--size-l: 3rem;
+--size-xl: 4rem;
+
+`;
