@@ -1,5 +1,4 @@
 "use client";
-
 import {
   StyledWrapper,
   StyledLink,
@@ -57,13 +56,23 @@ const HeroBanner = () => {
         persönlichen Reise in eine andere Dimension.
       </BodyMedium>
       <StyledWrapper style={{ gap: "2rem" }}>
-        <StyledButton type="button" aria-label="about">
+        <StyledButton
+          type="button"
+          aria-label="about"
+          whileHover={{ scale: 1.1 }}
+          whileTap={{ scale: 0.9 }}
+        >
           <StyledLink href="/about">
             _about
             <Arrow />
           </StyledLink>
         </StyledButton>
-        <StyledButton type="button" aria-label="contact">
+        <StyledButton
+          type="button"
+          aria-label="contact"
+          whileHover={{ scale: 1.1 }}
+          whileTap={{ scale: 0.9 }}
+        >
           <StyledLink href="/contact">
             _contact
             <Arrow />

@@ -25,15 +25,21 @@ export const StyledLink = styled(Link)`
 
 export const StyledList = styled.ul`
   display: flex;
-  gap: var(--space-xl);
   list-style: none;
   flex-direction: column;
+  align-items: center;
+
+  justify-content: center;
 
   @media (min-width: 768px) {
     display: flex;
     align-items: flex-end;
     flex-direction: row;
   }
+`;
+
+export const StyledListItem = styled(motion.li)`
+  padding: 0 0 0 var(--space-xl);
 `;
 
 export const StyledSpan = styled(motion.span)`

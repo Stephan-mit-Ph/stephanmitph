@@ -12,12 +12,6 @@ export const StyledDiv = styled(motion.div)`
   position: fixed;
   z-index: 99;
   background-color: var(--bg-color);
-  background-image: url(/noise.webp);
-      background-size: cover;
-      background-repeat: no-repeat;
-      background-blend-mode: overlay;
-      background-position: center;
-      
   svg {
     position: absolute;
     top: 0;

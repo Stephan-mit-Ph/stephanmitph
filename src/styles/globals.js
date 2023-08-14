@@ -39,7 +39,6 @@ const GlobalStyle = createGlobalStyle`
       display: flex;
       flex-direction: column;
       align-items: center;
-      justify-content: center;
       background-image: url(/noise.webp);
       background-size: cover;
       background-repeat: no-repeat;
@@ -58,22 +57,6 @@ const GlobalStyle = createGlobalStyle`
       color: inherit;
       text-decoration: none;
     }
-
-    ol,
-li {
-  list-style: none;
-  padding: 0;
-  margin: 0;
-  user-select: none;
-}
-
-ol {
-  display: flex;
-  justify-content: center;
-  align-items: center;
-  transform: translateZ(0);
-}
-
 
   `;
 

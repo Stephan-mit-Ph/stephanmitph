@@ -1,7 +1,3 @@
-export { default as Close } from "./Close";
-export { default as Dark } from "./Dark";
-export { default as Light } from "./Light";
-export { default as Open } from "./Open";
 export { default as AdobeIllustrator } from "./AdobeIllustrator";
 export { default as Adobeindesign } from "./Adobeindesign";
 export { default as Adobephotoshop } from "./Adobephotoshop";

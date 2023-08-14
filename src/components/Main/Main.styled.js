@@ -6,8 +6,6 @@ export const StyledMain = styled.main`
   height: calc(100% - 80px);
   width: 100%;
   display: flex;
-  bottom: 0;
-  left: 0;
   justify-content: center;
   align-items: center;
   max-width: 1440px;

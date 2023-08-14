@@ -2,11 +2,12 @@
 
 import { usePathname } from "next/navigation";
 import { links } from "../../lib/links";
-import { motion, LayoutGroup } from "framer-motion";
+import { LayoutGroup } from "framer-motion";
 import {
   StyledLink,
   StyledList,
   StyledSpan,
+  StyledListItem,
 } from "./NavLinks.styled";
 
 const NavLinks = ({ display }) => {
@@ -16,7 +17,7 @@ const NavLinks = ({ display }) => {
     <LayoutGroup>
       <StyledList role="list" display={display}>
         {links.map(({ href, label, id }) => (
-          <motion.li key={id} animate>
+          <StyledListItem key={id} animate>
             <StyledLink
               className={`title  
 								${href === path ? "active" : ""}
@@ -27,7 +28,7 @@ const NavLinks = ({ display }) => {
               {href === path && <StyledSpan layoutId="underline" />}
               {`_${label}`}
             </StyledLink>
-          </motion.li>
+          </StyledListItem>
         ))}
       </StyledList>
     </LayoutGroup>
