@@ -1,6 +1,6 @@
 import Link from "next/link";
 import styled from "styled-components";
-
+import { motion } from "framer-motion";
 export const StyledWrapper = styled.div`
   display: flex;
   flex-direction: ${(props) => props.direction || "row"};
@@ -23,7 +23,7 @@ export const StyledLink = styled(Link)`
   gap: var(--space-3xs);
 `;
 
-export const StyledButton = styled.button`
+export const StyledButton = styled(motion.button)`
   display: flex;
   color: inherit;
   background-color: transparent;
@@ -33,7 +33,9 @@ export const StyledButton = styled.button`
   transition: color 0.7s ease-in-out;
   cursor: pointer;
   z-index: 100;
+  margin-right: 3rem;
   font-size: var(--font-body-s);
+  font-weight: var(--font-weight-light);
 
   &:hover {
     color: var(--text-secondary);
@@ -44,6 +46,6 @@ export const SvgBackground = styled.svg`
   position: absolute;
   bottom: 0;
   right: 0;
-  z-index: 0;
+  z-index: -1; // ensure the SVG is behind other elements
   pointer-events: none; // ensures the SVG doesn't interfere with clickable elements
 `;

@@ -1,9 +1,15 @@
 import styled from "styled-components";
 import { motion } from "framer-motion";
+import Link from "next/link";
+
+export const StyledLink = styled(Link)`
+  color: inherit;
+`;
 
 export const StyledHeader = styled(motion.header)`
   display: flex;
-  position: fixed;
+  position: sticky;
+  position: -webkit-sticky;
   top: 0;
   left: 0;
   right: 0;
@@ -18,9 +24,7 @@ export const StyledHeader = styled(motion.header)`
   max-width: 1440px;
 
   a {
-    color: inherit;
     font-size: var(--font-body-m);
-    text-decoration: none;
   }
 `;
 
@@ -33,20 +37,21 @@ export const StyledSidebar = styled(motion.aside)`
   background-color: var(--bg-color);
   z-index: 1000;
   padding: 20px;
-  color: white;
+  color: var(--text-primary);
 `;
 
 export const StyledList = styled(motion.ul)`
   display: flex;
   flex-direction: column;
   justify-content: center;
-  gap: var(--space-l);
   align-items: center;
   height: 100vh;
+  list-style: none;
 `;
 
 export const StyledListItem = styled(motion.li)`
-  list-style: none;
+  padding: var(--space-l);
+
   cursor: pointer;
   &:hover {
     color: var(--text-secondary);

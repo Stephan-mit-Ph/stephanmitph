@@ -1,37 +1,37 @@
-export const articles = [
+export const sections = [
   {
     id: "projects",
     title: "Projekte",
     paragraphs: [
       {
         id: 0,
-        text: "Herzlich Willkommen auf meiner Website. Als Junior Webentwickler möchte ich mich gerne vorstellen und einen detaillierten Einblick meiner kürzlich erlangten   ",
+        text: "Ya know, darlin’, I’m 97 percent chum free Prepare to be boarded. Let’s get together and haul some keel. Is that a belayin’ pin in yer britches, or are ye …  I’ve crushed seventeen men’s skulls between me thighs! If ye can’t trust a pirate, ye damn well can’t trust a merchant either! Not all treasure is silver and gold Give me freedom or give me the rope. For I shall not take the shackles that subjugate the poor to uphold the rich. Why is the rum gone? STOP BLOWING HOLES IN MY SHIP!!! Suddenly you’re like a pirate, you’re 65 years old and you’ve got an ear- ring. Even pirates, before they attack another ship, hoist a black flag. If ye thinks he be ready to sail a beauty, ye better be willin’ to sink with her. The existence of the sea means the existence of pirates. Work like a captain, play like a pirate. Damnation seize my soul if I give you quarters, or take any from you. But I am touched by y’loyalty mate. Whats a pirate’s favorite fast food restaurant?  Arrrrbys! Land was created to provide a place for boats to visit.",
       },
       {
         id: 1,
-        text: "",
+        text: "Ya know, darlin’, I’m 97 percent chum free Prepare to be boarded. Let’s get together and haul some keel. Is that a belayin’ pin in yer britches, or are ye …  I’ve crushed seventeen men’s skulls between me thighs! If ye can’t trust a pirate, ye damn well can’t trust a merchant either! Not all treasure is silver and gold Give me freedom or give me the rope. For I shall not take the shackles that subjugate the poor to uphold the rich. Why is the rum gone? STOP BLOWING HOLES IN MY SHIP!!! Suddenly you’re like a pirate, you’re 65 years old and you’ve got an ear- ring. Even pirates, before they attack another ship, hoist a black flag. If ye thinks he be ready to sail a beauty, ye better be willin’ to sink with her. The existence of the sea means the existence of pirates. Work like a captain, play like a pirate. Damnation seize my soul if I give you quarters, or take any from you. But I am touched by y’loyalty mate. Whats a pirate’s favorite fast food restaurant?  Arrrrbys! Land was created to provide a place for boats to visit.",
       },
       {
-        id: 3,
-        text: "Bevor ich darauf eingehe, möchte ich einen kurzen Rückblick auf meinen bisherigen beruflichen Werdegang werfen und die entscheidenden Gedanken und Fragen hervorheben, die maßgeblich dazu beigetragen haben, meine Karriere neu auszurichten und mich auf diesen neuen Kurs zu bringen.",
+        id: 2,
+        text: "Ya know, darlin’, I’m 97 percent chum free Prepare to be boarded. Let’s get together and haul some keel. Is that a belayin’ pin in yer britches, or are ye …  I’ve crushed seventeen men’s skulls between me thighs! If ye can’t trust a pirate, ye damn well can’t trust a merchant either! Not all treasure is silver and gold Give me freedom or give me the rope. For I shall not take the shackles that subjugate the poor to uphold the rich. Why is the rum gone? STOP BLOWING HOLES IN MY SHIP!!! Suddenly you’re like a pirate, you’re 65 years old and you’ve got an ear- ring. Even pirates, before they attack another ship, hoist a black flag. If ye thinks he be ready to sail a beauty, ye better be willin’ to sink with her. The existence of the sea means the existence of pirates. Work like a captain, play like a pirate. Damnation seize my soul if I give you quarters, or take any from you. But I am touched by y’loyalty mate. Whats a pirate’s favorite fast food restaurant?  Arrrrbys! Land was created to provide a place for boats to visit.",
       },
     ],
-    sections: [
+    subsections: [
       {
         id: "capstone",
         title: "Captsone Project",
         paragraphs: [
           {
+            id: 3,
+            text: "Ya know, darlin’, I’m 97 percent chum free Prepare to be boarded. Let’s get together and haul some keel. Is that a belayin’ pin in yer britches, or are ye …  I’ve crushed seventeen men’s skulls between me thighs! If ye can’t trust a pirate, ye damn well can’t trust a merchant either! Not all treasure is silver and gold Give me freedom or give me the rope. For I shall not take the shackles that subjugate the poor to uphold the rich. Why is the rum gone? STOP BLOWING HOLES IN MY SHIP!!! Suddenly you’re like a pirate, you’re 65 years old and you’ve got an ear- ring. Even pirates, before they attack another ship, hoist a black flag. If ye thinks he be ready to sail a beauty, ye better be willin’ to sink with her. The existence of the sea means the existence of pirates. Work like a captain, play like a pirate. Damnation seize my soul if I give you quarters, or take any from you. But I am touched by y’loyalty mate. Whats a pirate’s favorite fast food restaurant?  Arrrrbys! Land was created to provide a place for boats to visit.",
+          },
+          {
             id: 4,
-            text: "Während meiner 15-jährigen erfolgreichen Tätigkeit in der Gastronomie habe ich mich sowohl auf beruflicher, als auch auf persönlicher Ebene ständig weiterentwickelt. Diese Zeit hat mir einen Schatz an wertvollen Erfahrungen gebracht, die meine Fähigkeiten als Gastgeber gestärkt und meine Persönlichkeit nachhaltig geprägt haben. Die Dynamik dieses Berufsfeldes hat mir immer wieder neue Herausforderungen und Gelegenheiten geboten, mich in verschiedenen Aspekten zu entfalten.",
+            text: "Ya know, darlin’, I’m 97 percent chum free Prepare to be boarded. Let’s get together and haul some keel. Is that a belayin’ pin in yer britches, or are ye …  I’ve crushed seventeen men’s skulls between me thighs! If ye can’t trust a pirate, ye damn well can’t trust a merchant either! Not all treasure is silver and gold Give me freedom or give me the rope. For I shall not take the shackles that subjugate the poor to uphold the rich. Why is the rum gone? STOP BLOWING HOLES IN MY SHIP!!! Suddenly you’re like a pirate, you’re 65 years old and you’ve got an ear- ring. Even pirates, before they attack another ship, hoist a black flag. If ye thinks he be ready to sail a beauty, ye better be willin’ to sink with her. The existence of the sea means the existence of pirates. Work like a captain, play like a pirate. Damnation seize my soul if I give you quarters, or take any from you. But I am touched by y’loyalty mate. Whats a pirate’s favorite fast food restaurant?  Arrrrbys! Land was created to provide a place for boats to visit.",
           },
           {
             id: 5,
-            text: "Besonders meine Begeisterung für Wein wuchs zu einer wahren Leidenschaft heran, die mich dazu anspornte, ständig in diesem Bereich weiterzulernen. Ich hatte das Privileg, von den Besten der Branche zu lernen, und bin für das Wissen und die Erfahrungen, die sie mit mir geteilt haben, tief dankbar.",
-          },
-          {
-            id: 6,
-            text: "Die Herausforderungen, die ich in der Gastronomie gemeistert habe, haben meine Problemlösungsfähigkeiten und Kommunikationsstärke verbessert. In einer oft stressigen Umgebung habe ich gelernt, die Ruhe zu bewahren und einen reibungslosen Betrieb zu gewährleisten, ohne dabei die Qualitätsstandards zu beeinträchtigen. Mit Stolz und Freude blicke ich auf eine erfüllte Karriere zurück und erinnere mich gern an diese spannende Zeit.",
+            text: "Ya know, darlin’, I’m 97 percent chum free Prepare to be boarded. Let’s get together and haul some keel. Is that a belayin’ pin in yer britches, or are ye …  I’ve crushed seventeen men’s skulls between me thighs! If ye can’t trust a pirate, ye damn well can’t trust a merchant either! Not all treasure is silver and gold Give me freedom or give me the rope. For I shall not take the shackles that subjugate the poor to uphold the rich. Why is the rum gone? STOP BLOWING HOLES IN MY SHIP!!! Suddenly you’re like a pirate, you’re 65 years old and you’ve got an ear- ring. Even pirates, before they attack another ship, hoist a black flag. If ye thinks he be ready to sail a beauty, ye better be willin’ to sink with her. The existence of the sea means the existence of pirates. Work like a captain, play like a pirate. Damnation seize my soul if I give you quarters, or take any from you. But I am touched by y’loyalty mate. Whats a pirate’s favorite fast food restaurant?  Arrrrbys! Land was created to provide a place for boats to visit.",
           },
         ],
       },
@@ -40,16 +40,12 @@ export const articles = [
         title: "stephanmitph.com",
         paragraphs: [
           {
+            id: 6,
+            text: "Ya know, darlin’, I’m 97 percent chum free Prepare to be boarded. Let’s get together and haul some keel. Is that a belayin’ pin in yer britches, or are ye …  I’ve crushed seventeen men’s skulls between me thighs! If ye can’t trust a pirate, ye damn well can’t trust a merchant either! Not all treasure is silver and gold Give me freedom or give me the rope. For I shall not take the shackles that subjugate the poor to uphold the rich. Why is the rum gone? STOP BLOWING HOLES IN MY SHIP!!! Suddenly you’re like a pirate, you’re 65 years old and you’ve got an ear- ring. Even pirates, before they attack another ship, hoist a black flag. If ye thinks he be ready to sail a beauty, ye better be willin’ to sink with her. The existence of the sea means the existence of pirates. Work like a captain, play like a pirate. Damnation seize my soul if I give you quarters, or take any from you. But I am touched by y’loyalty mate. Whats a pirate’s favorite fast food restaurant?  Arrrrbys! Land was created to provide a place for boats to visit.",
+          },
+          {
             id: 7,
-            text: "Das Jahr der Pandemie markierte für uns alle einen tiefgreifenden Wendepunkt. Nahezu über Nacht wurde unser gewohntes Leben auf den Kopf gestellt, und wir sahen uns gezwungen, unseren Alltag und unsere Zukunft neu zu bewerten. Die beständigen Einschränkungen und die herrschende Unsicherheit brachten auch mich dazu, meine berufliche Laufbahn zu überdenken.",
-          },
-          {
-            id: 8,
-            text: "Im selben Zeitraum erhielt ich die Diagnose einer Lebensmittelunverträglichkeit, die es mir erschwerte, meine Tätigkeit in der Gastronomie mit der gleichen Passion und dem gleichen Engagement wie zuvor fortzuführen. Der Entschluss, eine Umschulung zu beginnen, war alles andere als einfach. Es erfordert Mut, das Vertraute hinter sich zu lassen und sich auf einen neuen Weg zu begeben. Aber was sind zwei Jahre im Angesicht einer ganz neuen beruflichen Chance und Perspektive?",
-          },
-          {
-            id: 9,
-            text: "Bis zu diesem Punkt war mir der Ausbildungsberuf Kaufmann im E-Commerce völlig fremd. Unter all den Umschulungsmöglichkeiten, die ich in Betracht zog, sprach mich keiner wirklich an – bis ich auf die Beschreibung dieses Berufsfeldes stieß. Es war, als würde ein Licht aufgehen: Als Digital Native, aufgewachsen mit den Technologien und Medien unserer Zeit, fand ich hier eine Berufswahl, die meine technischen Interessen und Fähigkeiten ideal widerspiegelte. Heute bin ich zutiefst dankbar, dass ich diese Gelegenheit ergriffen habe und blicke optimistisch auf meinen neu eingeschlagenen beruflichen Pfad.",
+            text: "Ya know, darlin’, I’m 97 percent chum free Prepare to be boarded. Let’s get together and haul some keel. Is that a belayin’ pin in yer britches, or are ye …  I’ve crushed seventeen men’s skulls between me thighs! If ye can’t trust a pirate, ye damn well can’t trust a merchant either! Not all treasure is silver and gold Give me freedom or give me the rope. For I shall not take the shackles that subjugate the poor to uphold the rich. Why is the rum gone? STOP BLOWING HOLES IN MY SHIP!!! Suddenly you’re like a pirate, you’re 65 years old and you’ve got an ear- ring. Even pirates, before they attack another ship, hoist a black flag. If ye thinks he be ready to sail a beauty, ye better be willin’ to sink with her. The existence of the sea means the existence of pirates. Work like a captain, play like a pirate. Damnation seize my soul if I give you quarters, or take any from you. But I am touched by y’loyalty mate. Whats a pirate’s favorite fast food restaurant?  Arrrrbys! Land was created to provide a place for boats to visit.",
           },
         ],
       },
@@ -59,7 +55,7 @@ export const articles = [
     id: "path",
     title: "Lernpfad",
     paragraphs: [{ id: 12, text: "Lorem" }],
-    sections: [
+    subsections: [
       {
         id: "typescript",
         title: "Typescript",

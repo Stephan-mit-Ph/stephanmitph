@@ -10,20 +10,16 @@ export const StyledButton = styled.button`
   align-items: center;
   background: transparent;
   color: inherit;
-  font-size: 1.8rem;
   border: none;
   cursor: pointer;
   z-index: 1200;
+
   transition: transform 0.3s ease-in-out;
 
-  @media (min-width: 768px) {
-    display: none;
-  }
-
   svg {
-    width: 2rem;
-    height: 2rem;
- }
+    width: var(--font-heading-4);
+    height: var(--font-heading-4);
+  }
 `;
 
 export const Path = styled(motion.path)`
