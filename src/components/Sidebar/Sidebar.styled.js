@@ -11,15 +11,10 @@ export const StyledLink = styled(({ active, ...rest }) => <Link {...rest} />)`
   color: ${({ active }) =>
     active ? "var(--text-primary)" : "var(--text-secondary)"};
   font-weight: ${({ active }) =>
-    active ? "var(--weight-regular)" : "var(--weight-light)"};
+    active ? "var(--font-weight-regular)" : "var(--font-weight-light)"};
 
   &:hover {
     color: var(--text-active);
-  }
-
-  &.active {
-    color: var(--text-active);
-    font-weight: var(--weight-regular);
   }
 `;
 

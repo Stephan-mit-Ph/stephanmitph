@@ -10,7 +10,7 @@ export const StyledMain = styled.main`
   align-items: center;
   max-width: 1440px;
   flex: 1;
-  padding: 0 var(--space-m-xl);
+  padding: 0 var(--space-s-xl);
   overflow: auto;
   z-index: 0;
   position: relative;
