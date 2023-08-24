@@ -1,10 +1,4 @@
-"use client";
-import {
-  StyledWrapper,
-  StyledLink,
-  StyledButton,
-  SvgBackground,
-} from "./HeroBanner.styled";
+import { StyledWrapper, StyledLink, SvgBackground } from "./HeroBanner.styled";
 import { Arrow } from "@/components/Icons";
 import { Display, BodyMedium } from "@/ui/Text/Text.styled";
 
@@ -38,7 +32,7 @@ const HeroBanner = () => {
       </SvgBackground>
       <StyledWrapper direction="column">
         <Display>Web Development</Display>
-        <StyledWrapper style={{ gap: "1rem" }}>
+        <StyledWrapper>
           <Arrow
             style={{
               fontSize: "var(--icon-size)",
@@ -56,28 +50,14 @@ const HeroBanner = () => {
         persönlichen Reise in eine andere Dimension.
       </BodyMedium>
       <StyledWrapper style={{ gap: "2rem" }}>
-        <StyledButton
-          type="button"
-          aria-label="about"
-          whileHover={{ scale: 1.1 }}
-          whileTap={{ scale: 0.9 }}
-        >
-          <StyledLink href="/about">
-            _about
-            <Arrow />
-          </StyledLink>
-        </StyledButton>
-        <StyledButton
-          type="button"
-          aria-label="contact"
-          whileHover={{ scale: 1.1 }}
-          whileTap={{ scale: 0.9 }}
-        >
-          <StyledLink href="/contact">
-            _contact
-            <Arrow />
-          </StyledLink>
-        </StyledButton>
+        <StyledLink href="/about" aria-label="Link to About Page">
+          _about
+          <Arrow />
+        </StyledLink>
+        <StyledLink href="/contact" aria-label="Link to Contact Page">
+          _contact
+          <Arrow />
+        </StyledLink>
       </StyledWrapper>
     </StyledWrapper>
   );

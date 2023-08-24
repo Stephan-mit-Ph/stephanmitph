@@ -5,15 +5,15 @@ export const sections = [
     paragraphs: [
       {
         id: 0,
-        text: "Herzlich Willkommen auf meiner Website. Ich bin Stephan und ich freue mich, dich auf meiner Seite begrüßen zu dürfen. Als Junior Webentwickler möchte ich mich gerne vorstellen.",
+        text: "Herzlich Willkommen auf meiner Website. Ich bin Stephan! Webentwickler, Product Designer und E-Commerce Spezialist aus dem Herzen Berlins. Mit technischer Expertise und einem ausgeprägten Sinn für Ästhetik, strebe ich danach, innovative Designlösungen für digitale Produkte und Dienstleistungen zu schaffen. Ich freue mich, dich hier begrüßen zu dürfen und möchte gerne dazu einladen, mich auf meinem spannenden Weg in die digitale Welt zu begleiten.",
       },
       {
         id: 1,
-        text: "",
+        text: "Der Wunsch nach einer neuen beruflichen Perspektive war für mich die Chance, mich neu zu erfinden und neue aufregende Interessen zu erforschen, denen ich mit Begeisterung folgen kann. Heute möchte ich die kürzlich erlangten Erfolge, Meilensteine und Erfahrungen teilen, die mir den Weg in eine aufregende neue Zukunft geebnet haben.",
       },
       {
         id: 2,
-        text: "",
+        text: "Bevor ich darauf eingehe , möchte ich vorab einen kurzen Blick in die Vergangenheit werfen. Dies soll veranschaulichen, wie mein beruflicher Werdegang meine persönliche Entwicklung geprägt und mich zu der Person gemacht hat, die ich heute bin. Außerdem möchte ich Fragen und Gedanken zum Ausdruck bringen, die mich beschäftigt haben und die mich dazu bewegt haben einen neuen Weg einzuschlagen.",
       },
     ],
     subsections: [
@@ -23,15 +23,7 @@ export const sections = [
         paragraphs: [
           {
             id: 3,
-            text: "Ya know, darlin’, I’m 97 percent chum free Prepare to be boarded. Let’s get together and haul some keel. Is that a belayin’ pin in yer britches, or are ye …  I’ve crushed seventeen men’s skulls between me thighs! If ye can’t trust a pirate, ye damn well can’t trust a merchant either! Not all treasure is silver and gold Give me freedom or give me the rope. For I shall not take the shackles that subjugate the poor to uphold the rich. Why is the rum gone? STOP BLOWING HOLES IN MY SHIP!!! Suddenly you’re like a pirate, you’re 65 years old and you’ve got an ear- ring. Even pirates, before they attack another ship, hoist a black flag. If ye thinks he be ready to sail a beauty, ye better be willin’ to sink with her. The existence of the sea means the existence of pirates. Work like a captain, play like a pirate. Damnation seize my soul if I give you quarters, or take any from you. But I am touched by y’loyalty mate. Whats a pirate’s favorite fast food restaurant?  Arrrrbys! Land was created to provide a place for boats to visit.",
-          },
-          {
-            id: 4,
-            text: "Ya know, darlin’, I’m 97 percent chum free Prepare to be boarded. Let’s get together and haul some keel. Is that a belayin’ pin in yer britches, or are ye …  I’ve crushed seventeen men’s skulls between me thighs! If ye can’t trust a pirate, ye damn well can’t trust a merchant either! Not all treasure is silver and gold Give me freedom or give me the rope. For I shall not take the shackles that subjugate the poor to uphold the rich. Why is the rum gone? STOP BLOWING HOLES IN MY SHIP!!! Suddenly you’re like a pirate, you’re 65 years old and you’ve got an ear- ring. Even pirates, before they attack another ship, hoist a black flag. If ye thinks he be ready to sail a beauty, ye better be willin’ to sink with her. The existence of the sea means the existence of pirates. Work like a captain, play like a pirate. Damnation seize my soul if I give you quarters, or take any from you. But I am touched by y’loyalty mate. Whats a pirate’s favorite fast food restaurant?  Arrrrbys! Land was created to provide a place for boats to visit.",
-          },
-          {
-            id: 5,
-            text: "Ya know, darlin’, I’m 97 percent chum free Prepare to be boarded. Let’s get together and haul some keel. Is that a belayin’ pin in yer britches, or are ye …  I’ve crushed seventeen men’s skulls between me thighs! If ye can’t trust a pirate, ye damn well can’t trust a merchant either! Not all treasure is silver and gold Give me freedom or give me the rope. For I shall not take the shackles that subjugate the poor to uphold the rich. Why is the rum gone? STOP BLOWING HOLES IN MY SHIP!!! Suddenly you’re like a pirate, you’re 65 years old and you’ve got an ear- ring. Even pirates, before they attack another ship, hoist a black flag. If ye thinks he be ready to sail a beauty, ye better be willin’ to sink with her. The existence of the sea means the existence of pirates. Work like a captain, play like a pirate. Damnation seize my soul if I give you quarters, or take any from you. But I am touched by y’loyalty mate. Whats a pirate’s favorite fast food restaurant?  Arrrrbys! Land was created to provide a place for boats to visit.",
+            text: "Meine berufliche Laufbahn begann in der spannenden Welt der gehobenen Gastronomie. Mit einem Ausbildungsbetrieb im Bereich der Premium Residenzen, war es mir bereits in jungen Jahren möglich Erfahrungen im Umgang mit einer anspruchsvollen Zielgruppe zu sammeln, die eine besondere Zuwendung erfordert. Ein ausgeprägtes Qualitätsbewusstsein und der individuelle, einfühlsame Umgang mit Menschen war von Anfang an Teil meiner beruflichen Identität. Eine lange Karriere ermöglichte es mir alle Facetten der Branche kennen zu lernen und mit ihnen auch persönlich zu wachsen.  Meine Leidenschaft für Wein hat mich in dieser Zeit stets begleitet und ich konnte mein Wissen in diesem Bereich kontinuierlich weiter erweitern. Die Zusammenarbeit mit den Besten der Branche ermöglichte es mir, das geteilte Wissen für meine berufliche Entwicklung zu nutzen. Ich bin für dankbar für die tollen Jahre und erinnere mich gerne an diese Tage zurück",
           },
         ],
       },
@@ -40,26 +32,27 @@ export const sections = [
         title: "Berufliche Veränderung",
         paragraphs: [
           {
-            id: 6,
-            text: "Ya know, darlin’, I’m 97 percent chum free Prepare to be boarded. Let’s get together and haul some keel. Is that a belayin’ pin in yer britches, or are ye …  I’ve crushed seventeen men’s skulls between me thighs! If ye can’t trust a pirate, ye damn well can’t trust a merchant either! Not all treasure is silver and gold Give me freedom or give me the rope. For I shall not take the shackles that subjugate the poor to uphold the rich. Why is the rum gone? STOP BLOWING HOLES IN MY SHIP!!! Suddenly you’re like a pirate, you’re 65 years old and you’ve got an ear- ring. Even pirates, before they attack another ship, hoist a black flag. If ye thinks he be ready to sail a beauty, ye better be willin’ to sink with her. The existence of the sea means the existence of pirates. Work like a captain, play like a pirate. Damnation seize my soul if I give you quarters, or take any from you. But I am touched by y’loyalty mate. Whats a pirate’s favorite fast food restaurant?  Arrrrbys! Land was created to provide a place for boats to visit.",
+            id: 4,
+            text: "Die Pandemie und die damit verbundenen Folgen hat unsere Welt, wie wir sie kannten völlig auf den Kopf gestellt.  Kaum eine andere Branche hatte so schwer mit den Folgen zu kämpfen, wie die Gastronomie. Auch ich musste mich mit existenziellen Fragen auseinander setzen und wurde dazu angehalten, meine berufliche Zukunft zu überdenken.  Mit der Diagnose einer Lebensmittelunverträglichkeit, erhielt ich ebenfalls die Nachricht, meinen Beruf, so wie ich ihn kenne und gelebt habe, nicht mehr mit der selben Leidenschaft ausüben kann, wie zuvor.",
           },
           {
-            id: 7,
-            text: "Im selben Zeitraum erhielt ich die Diagnose einer Lebensmittelunverträglichkeit, die es mir erschwerte, meine Tätigkeit in der Gastronomie mit der gleichen Passion und dem gleichen Engagement wie zuvor fortzuführen.",
+            id: 5,
+            text: "Mit diesem Rückschlag, war eine Rückkehr in den Job nun völlig ausgeschlossen. Es folgte eine Zeit, in der ich mich selbst neu kennen lernen musste. Welche Interessen habe ich noch? Welche Branche bietet mir die Chance, beruflich nochmal neu anzufangen und bringt die Sicherheit, die mir verloren ging. Eine erste Recherche zu den Umschulungsberufen brachte mir nicht den erhofften Beruf, mit dem ich mich auch identifizieren konnte. Der damals noch unbekannte neue Ausbildungsberuf Kaufmann im E-Commerce wurde nur von wenigen Bildungsträgern angeboten. Meine Neugier war sofort geweckt und der Rahmenplan der IHK gab mir eine Übersicht der einzelnen Ausbildungsinhalte und Zukunftsperspektiven. Als digital Native bin ich mit allen gängigen Technologien & Medien aufgewachsen und war in diesem Bereich auch immer sehr interessiert. Ohne lang nachdenken zu müssen, entschied ich mich für den Neuanfang  in der Tech-Branche und die Möglichkeit ein Teil der Digitalisierung zu werden.",
+          },
+          {
+            id: 6,
+            text: "Der Lehrplan erforderte die Planung und Umsetzung eines Onlineshops mit Wordpress und WooCommerce. Die hier begrenzten Möglichkeiten haben mich mit meinen Ideen, der Planung und Umsetzung stark eingeschränkt. An diesem Punkt habe ich mich zum ersten Mal mit HTML und CSS auseinander gesetzt, um meine Ideen optimal zu visualisieren. Hier ist es dann auch um mich geschehen und ich habe mich dabei erwischt, wie ich nächtelang mit den Entwicklertools versucht habe Code zu verstehen. Das programmieren war wirklich das Letzte woran ich gedacht habe. Ich hatte es nie in Betracht gezogen, dass ich dafür ein Verständnis entwickeln könnte und Spass daran habe. Heute bin ich  dankbar, dass mir dieses Wordpress Projekt eine völlig neue Möglichkeit offenbart hat meinen Weg zu gestalten.",
           },
         ],
       },
       {
         id: "interests",
         title: "Interessen",
-        paragraphs: [{ id: 8, text: "Lorem" }],
-        icons: [
-          { id: 60, name: "Time", tooltip: "Geschichte" },
-          { id: 61, name: "Tags", tooltip: "Tags" },
-          { id: 62, name: "Shop", tooltip: "Shop" },
-          { id: 63, name: "Coding", tooltip: "Coding" },
-          { id: 64, name: "Buildings", tooltip: "Architektur" },
-          { id: 65, name: "Food", tooltip: "Gastronomie" },
+        paragraphs: [
+          {
+            id: 7,
+            text: "Mit meiner beruflichen Entscheidung habe ich zahlreiche neue Interessen entwickelt, die ich auch privat mit Spannung verfolge. Das programmieren ist nun vielmehr ein Hobby und ich lerne jeden Tag dazu. Ansonsten bin ich ein sehr Kultur begeisterter Mensch. Der Mittelpunkt in meinem Leben ist die Musik, ohne die ich nicht atmen könnte. Ich interessiere mich für Grafikdesign, Digital Art und suche Inspiration oft in der Geschichte oder der Architektur.",
+          },
         ],
       },
     ],
@@ -67,13 +60,23 @@ export const sections = [
   {
     id: "education",
     title: "Bildung",
-    paragraphs: [{ id: 9, text: "Lorem" }],
+    paragraphs: [
+      {
+        id: 8,
+        text: "Die Erstausbildung zum Restaurantfachmann bestimmte meine weitere berufliche Laufbahn in der Gastronomie. Das Thema Wein war zu jeder Zeit präsent und hielt mich dazu an, mich in diesem Bereich kontinuierlich weiterzubilden.",
+      },
+    ],
     subsections: [
       {
         id: "e-commerce",
         title: "Kaufmann im E-Commerce IHK",
-        paragraphs: [{ id: 10, text: "Lorem" }],
-        company: "GPB Berlin-Neukölln",
+        paragraphs: [
+          {
+            id: 10,
+            text: "Umschulung zum Kaufmann im E-Commerce. Neben den klassischen kaufmännischen Ausbildungsinhalten lag hier der Fokus auf Onlinemarketing, Medienwirtschaft, Visuelle Gestaltung und Grafikbearbeitung. Schulische Ausbildung mit Umsetzung verschiedener Projekte im Marketing und Erstellung eines Onlineshops.",
+          },
+        ],
+        company: "GPB mbH Berlin-Neukölln",
         date: "März 2021 - Januar 2023",
         city: "Berlin/Remote",
         icons: [
@@ -81,24 +84,28 @@ export const sections = [
           { id: 31, name: "Adobeindesign", tooltip: "Adobe Indesign" },
           { id: 32, name: "Adobexd", tooltip: "Adobe Xd" },
           { id: 33, name: "AdobeIllustrator", tooltip: "Adobe Illustrator" },
-          { id: 34, name: "Canva", tooltip: "Canva" },
-          { id: 35, name: "Googleanalytics", tooltip: "Google Analytics" },
-          { id: 36, name: "Googleads", tooltip: "Google Ads" },
-          { id: 37, name: "Microsoftexcel", tooltip: "Microsoft Excel" },
+          { id: 34, name: "Googleanalytics", tooltip: "Google Analytics" },
+          { id: 35, name: "Googleads", tooltip: "Google Ads" },
+          { id: 36, name: "Microsoftexcel", tooltip: "Microsoft Excel" },
           {
-            id: 38,
+            id: 37,
             name: "Microsoftpowerpoint",
             tooltip: "Microsoft Power Point",
           },
-          { id: 39, name: "Microsoftword", tooltip: "Microsoft Word" },
-          { id: 40, name: "Wordpress", tooltip: "Wordpress" },
-          { id: 41, name: "Woo", tooltip: "WooCommerce" },
+          { id: 38, name: "Microsoftword", tooltip: "Microsoft Word" },
+          { id: 39, name: "Wordpress", tooltip: "Wordpress" },
+          { id: 40, name: "Woo", tooltip: "WooCommerce" },
         ],
       },
       {
         id: "wset",
         title: "WSET Level II",
-        paragraphs: [{ id: 11, text: "Lorem" }],
+        paragraphs: [
+          {
+            id: 11,
+            text: "Der WSET Level II ist ein Kurs für den Erlang grundlegender und fortgeschrittener Weinkenntnisse. Detaillierte Einführung in die wichtigsten Weinstile, Traubensorten, Weingebiete und Degustationstechniken. Verkostung und Selbststudium.'pass with merit'",
+          },
+        ],
         company: "Wine Spirit Education Trust",
         date: "September 2017",
         city: "Berlin",
@@ -106,7 +113,12 @@ export const sections = [
       {
         id: "service",
         title: "Restaurantfachmann IHK",
-        paragraphs: [{ id: 12, text: "Lorem" }],
+        paragraphs: [
+          {
+            id: 12,
+            text: "Erstausbildung zum Restaurantfachmann. Vorwiegend im a la carte Geschäft, Theater Veranstaltungen oder Konzerte. Kategorie der Premium Residenzen im Luxussegment.",
+          },
+        ],
         company: "Tertianum Residenz Berlin",
         date: "März 2007 - Januar 2010",
         city: "Berlin",
@@ -116,12 +128,17 @@ export const sections = [
   {
     title: "Erfahrung",
     id: "experience",
-    paragraphs: [{ id: 13, text: "Lorem" }],
+    paragraphs: [{ id: 13, text: "" }],
     subsections: [
       {
         id: "bootcamp",
         title: "Web Development Bootcamp",
-        paragraphs: [{ id: 14, text: "Lorem" }],
+        paragraphs: [
+          {
+            id: 14,
+            text: "Aus-/Weiterbildung zum Web Developer mit 540 Stunden Programmierpraxis(720 Unterrichtseinheiten).",
+          },
+        ],
         company: "neuefische GmbH",
         date: "Februar 2023 - Mai 2023",
         city: "Köln/Remote",
@@ -159,7 +176,12 @@ export const sections = [
       {
         id: "work-experience",
         title: "Berufserfahrung",
-        paragraphs: [{ id: 16, text: "Lorem" }],
+        paragraphs: [
+          {
+            id: 16,
+            text: "Mit über 10 Jahren Berufserfahrung und insgesamt 15 Jahren im Job blicke ich stolz auf eine lange Karriere in der Gastronomie zurück. Ich hatte das Privileg der Berliner Spitzengastronomie anzugehören. Die Cordbar Berlin als beste Weinbar Deutschlands und die Küche von Tim Raue als zwei Sterne Koch waren lange Zeit mein zu Hause. Des Weiteren konnte ich viele Veranstaltungen im Service begleiten und habe Erfahrung mit jeder Art von Etablesment. Zuletzt konnte ich ebenfalls Erfahrungen als Weinfachberater im Einzehandel sammeln und die Stammkunden einer Weinhandlung in Prenzlauer Berg beraten. Die Arbeit mit Wein erweiterte meine Aufgabenbereich auf Lager, Einkauf und Logistik, Zollbearbeitung und Guest Relation Management.",
+          },
+        ],
         city: "Berlin, Köln",
         date: "Januar 2010 - April 2020",
       },

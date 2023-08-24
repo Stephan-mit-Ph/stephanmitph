@@ -1,4 +1,3 @@
-
 import { BodyMedium } from "@/ui/Text/Text.styled";
 
 const Paragraphs = ({ paragraphs }) =>

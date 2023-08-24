@@ -52,7 +52,7 @@ export const sections = [
     ],
   },
   {
-    id: "path",
+    id: "learningpath",
     title: "Lernpfad",
     paragraphs: [{ id: 12, text: "Lorem" }],
     subsections: [

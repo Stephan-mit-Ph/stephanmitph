@@ -23,6 +23,7 @@ export const spacing = `
 --space-4xs-m: clamp(0.00rem, calc(-0.70rem + 3.00vw), 2.00rem);
 --space-xl-s: clamp(1.31rem, calc(3.59rem + -2.54vw), 3.00rem);
 --space-s-l: clamp(1.00rem, calc(0.43rem + 2.44vw), 2.63rem);
+--space-s-xl: clamp(1.00rem, calc(-0.03rem + 4.41vw), 3.94rem);
 --space-m-xl: clamp(1.50rem, calc(0.64rem + 3.66vw), 3.94rem);
 --width: clamp(21.875rem, 9.947rem + 50.892vw, 55.75rem);
 --icon-size: clamp(1.75rem, 1.31rem + 1.878vw, 3rem);
