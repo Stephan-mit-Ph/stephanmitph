@@ -128,7 +128,7 @@ export const sections = [
   {
     title: "Erfahrung",
     id: "experience",
-    paragraphs: [{ id: 13, text: "" }],
+    paragraphs: [{ id: 13, text: "Neben meiner Berufserfahrung in der Gastronomie konnte ich erste Erfahrungen in der digitalen Arbeitswelt sammeln. Mit den erste Eindrücken wurden meine Ziele in dieser Branche auch deutlich. Ich blicke gespannt in die Zukunft und freue mich hier neu anzufanfgen." }],
     subsections: [
       {
         id: "bootcamp",
