@@ -8,7 +8,7 @@ import {
   StyledSubList,
   StyledSectionContent,
 } from "./ContentSection.styled";
-import { H1, H2, H3 } from "@/ui/Text/Text.styled";
+import { H1, H2, H3, Accent } from "@/ui/Text/Text.styled";
 import IconList from "src/ui/IconList";
 import SubSectionInfo from "src/ui/SubsectionInfo";
 import Paragraphs from "src/ui/Paragraphs";
@@ -29,7 +29,12 @@ const SubSectionItem = ({ subsection }) => (
       <H3>{subsection.title}</H3>
       <Paragraphs paragraphs={subsection.paragraphs} />
       <SubSectionInfo {...subsection} />
-      <IconList icons={subsection.icons} />
+      {subsection.icons && (
+        <>
+          <Accent>Software & Tools</Accent>
+          <IconList icons={subsection.icons} />
+        </>
+      )}
     </Section>
   </StyledListItem>
 );

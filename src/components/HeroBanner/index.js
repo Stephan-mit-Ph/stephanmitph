@@ -1,10 +1,6 @@
-"use client";
 import { StyledWrapper, StyledLink, SvgBackground } from "./HeroBanner.styled";
 import { Arrow } from "@/components/Icons";
 import { Display, BodyMedium } from "@/ui/Text/Text.styled";
-import { motion } from "framer-motion";
-
-const AnimatedArrow = motion(Arrow);
 
 const HeroBanner = () => {
   return (

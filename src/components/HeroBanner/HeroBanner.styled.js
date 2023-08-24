@@ -1,6 +1,7 @@
+"use client";
+
 import Link from "next/link";
 import styled from "styled-components";
-import { motion } from "framer-motion";
 
 export const StyledWrapper = styled.div`
   display: flex;
@@ -30,11 +31,10 @@ export const StyledLink = styled(Link)`
   cursor: pointer;
   font-size: var(--font-body-s);
   font-weight: var(--font-weight-light);
-  
+
   &:hover {
     color: var(--text-secondary);
   }
-
 `;
 
 export const SvgBackground = styled.svg`

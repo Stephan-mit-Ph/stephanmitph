@@ -1,5 +1,3 @@
-"use client";
-
 import { usePathname } from "next/navigation";
 import { links } from "../../lib/links";
 import { LayoutGroup } from "framer-motion";

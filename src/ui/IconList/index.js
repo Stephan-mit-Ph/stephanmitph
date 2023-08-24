@@ -1,5 +1,6 @@
 import { StyledSpan, StyledList } from "./IconList.styled";
 import * as Icons from "@/components/Icons";
+
 const Icon = ({ name }) => {
   const IconComponent = Icons[name];
   return <IconComponent key={name} />;
