@@ -5,7 +5,7 @@ export const sections = [
     paragraphs: [
       {
         id: 0,
-        text: "Auf dieser Seite veröffentliche ich meine bisher umgesetzten Projekte und informiere über meinen derzeitigen Lernpfad und Themen. Die Projekte wurden von mir konzipiert, designt und programmiert. Aktuell beschäftige ich mich ebenfalls mit TypeScript und baue meine vorhandenen Kenntnisse in Figma aus. Die Config 2023 hat viele Neuerungen mit sich gebracht, die unter anderem die Zusammenarbeit mit Entwicklern vereinfacht und Desingprozesse beschleunigt. All meine zukunftigen Projekte werden mit Notion, Figma, VS Code und GitHub realisiert, um produktive Arbeitsabläufe zu üben und zu verbessern.",
+        text: "Auf dieser Seite veröffentliche ich meine bisher umgesetzten Projekte und informiere über meinen derzeitigen Lernpfad und Themen. Die Projekte wurden von mir konzipiert, designt und programmiert.",
       },
     ],
     subsections: [
@@ -24,7 +24,7 @@ export const sections = [
         paragraphs: [
           {
             id: 1,
-            text: "Als Junior Webentickler war die eigene Website ein Herzensprojekt. Hier konnte ich mich ausprobieren und verschiedene Ansätze & Lösungen testen. Neue Themen waren für mich die Verwendung von 'modern css' mit der clamp Funktion, um Typograpy und Spacing ohne die Verwendung von Breakpoints zu stylen. Ich konnte erste Animation mit Framer Motion umsetzen, arbeite allerdings auch noch an einigen Bugs und deren Ursache. Mit dem React Intersection Observer Hook lernete ich auch einen neuen Hook kennen, den ich für meine Sidebar und die jeweiligen Sections verwendet habe. Anstelle von Breakpoints habe ich einen Hook implementiert, der den Viewport des Users überwacht und responsive anpasst. Das Major Update von Next.js war für mich Anlass, die Page mit dem neuen App Router Feature aufzusetzen. Dieses Projekt bleibt ein Living Project, da ich weiterhin an ihr arbeiten, lernen und optimieren möchte.",
+            text: "Als Junior Webentickler war die erste eigene Website ein Herzensprojekt. Hier konnte ich mich ausprobieren und verschiedene Ansätze & Lösungen testen. Neue Themen waren für mich die Verwendung von 'modern css' mit der clamp Funktion, um Typograpy und Spacing ohne die Verwendung von Breakpoints zu stylen. Ich konnte erste Animation mit Framer Motion umsetzen, arbeite allerdings auch noch an einigen Bugs und deren Ursache. Mit dem React Intersection Observer Hook lernete ich auch einen neuen Hook kennen, den ich für meine Sidebar und die jeweiligen Sections verwendet habe. Anstelle von Breakpoints habe ich einen Hook implementiert, der den Viewport des Users überwacht und responsive anpasst. Das Major Update von Next.js war für mich Anlass, die Page mit dem neuen App Router Feature aufzusetzen. Dieses Projekt bleibt ein Living Project, da ich weiterhin an ihr arbeiten, lernen und optimieren möchte.",
           },
         ],
       },
@@ -53,7 +53,12 @@ export const sections = [
   {
     id: "learningpath",
     title: "Lernpfad",
-    paragraphs: [{ id: 12, text: "Lorem" }],
+    paragraphs: [
+      {
+        id: 12,
+        text: "Aktuell beschäftige ich mich ebenfalls mit TypeScript und baue meine vorhandenen Kenntnisse in Figma aus. Die Config 2023 hat viele Neuerungen mit sich gebracht, die unter anderem die Zusammenarbeit mit Entwicklern vereinfacht und Desingprozesse beschleunigt. All meine zukunftigen Projekte werden mit Notion, Figma, VS Code und GitHub realisiert, um produktive Arbeitsabläufe zu üben und zu verbessern.",
+      },
+    ],
     subsections: [
       {
         id: "typescript",

@@ -15,7 +15,7 @@ function Section({ children, id }) {
         style={{
           transform: isInView ? "none" : "translateX(250px)",
           opacity: isInView ? 1 : 0,
-          transition: "all 1.9s cubic-bezier(0.17, 0.55, 0.55, 1) 0.5s",
+          transition: "all 1.8s cubic-bezier(0.17, 0.55, 0.55, 1) 0.5s",
           display: "block",
         }}
       >

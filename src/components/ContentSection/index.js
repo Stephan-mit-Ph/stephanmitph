@@ -31,7 +31,7 @@ const SubSectionItem = ({ subsection }) => (
       <SubSectionInfo {...subsection} />
       {subsection.icons && (
         <>
-          <Accent>Software & Tools</Accent>
+          <Accent>Tools & Technologies</Accent>
           <IconList icons={subsection.icons} />
         </>
       )}

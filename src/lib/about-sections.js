@@ -5,15 +5,15 @@ export const sections = [
     paragraphs: [
       {
         id: 0,
-        text: "Herzlich Willkommen auf meiner Website. Ich bin Stephan! Webentwickler, Product Designer und E-Commerce Spezialist aus dem Herzen Berlins. Mit technischer Expertise und einem ausgeprägten Sinn für Ästhetik, strebe ich danach, innovative Designlösungen für digitale Produkte und Dienstleistungen zu schaffen. Ich freue mich, dich hier begrüßen zu dürfen und möchte gerne dazu einladen, mich auf meinem spannenden Weg in die digitale Welt zu begleiten.",
+        text: "Herzlich willkommen auf meiner Website. Mein Name ist Stephan! Ich bin Webentwickler und Product Designer aus dem Herzen Berlins, mit einem fachlichen Background im E-Commerce. Mit technischer Expertise und einem Gespür für Ästhetik, erschaffe ich innovativen Designlösungen für digitale Produkte und Dienstleistungen. Ich freue mich, dich hier begrüßen zu dürfen und möchte dazu einladen, mich auf meinem spannenden Weg in die digitale Welt zu begleiten.",
       },
       {
         id: 1,
-        text: "Der Wunsch nach einer neuen beruflichen Perspektive war für mich die Chance, mich neu zu erfinden und neue aufregende Interessen zu erforschen, denen ich mit Begeisterung folgen kann. Heute möchte ich die kürzlich erlangten Erfolge, Meilensteine und Erfahrungen teilen, die mir den Weg in eine aufregende neue Zukunft geebnet haben.",
+        text: "Der Wunsch nach einer neuen beruflichen Perspektive bot mir die Gelegenheit, mich neu zu erfinden und spannende Interessen zu etdecken, denen ich mit großer Begeisterung folgen kann. Heute möchte ich die kürzlich erlangten Erfolge, Meilensteine und Erfahrungen teilen, die mir den Weg in eine neue berufliche Zukunft geebnet haben.",
       },
       {
         id: 2,
-        text: "Bevor ich darauf eingehe , möchte ich vorab einen kurzen Blick in die Vergangenheit werfen. Dies soll veranschaulichen, wie mein beruflicher Werdegang meine persönliche Entwicklung geprägt und mich zu der Person gemacht hat, die ich heute bin. Außerdem möchte ich Fragen und Gedanken zum Ausdruck bringen, die mich beschäftigt haben und die mich dazu bewegt haben einen neuen Weg einzuschlagen.",
+        text: "Bevor ich darauf eingehe , werfe ich einen kurzen Blick in die Vergangenheit. Dies soll veranschaulichen, wie mein beruflicher Werdegang meine persönliche Entwicklung geprägt und mich zu dem Menschen gemacht hat, der ich heute bin. Dabei will ich auch einige der Fragen und Gedanken teilen, die mich beschäftigt haben und die letztendlich den Anstoß gaben, einen mutigen neuen Weg einzuschlagen.",
       },
     ],
     subsections: [
@@ -23,7 +23,7 @@ export const sections = [
         paragraphs: [
           {
             id: 3,
-            text: "Meine berufliche Laufbahn begann in der spannenden Welt der gehobenen Gastronomie. Mit einem Ausbildungsbetrieb im Bereich der Premium Residenzen, war es mir bereits in jungen Jahren möglich Erfahrungen im Umgang mit einer anspruchsvollen Zielgruppe zu sammeln, die eine besondere Zuwendung erfordert. Ein ausgeprägtes Qualitätsbewusstsein und der individuelle, einfühlsame Umgang mit Menschen war von Anfang an Teil meiner beruflichen Identität. Eine lange Karriere ermöglichte es mir alle Facetten der Branche kennen zu lernen und mit ihnen auch persönlich zu wachsen.  Meine Leidenschaft für Wein hat mich in dieser Zeit stets begleitet und ich konnte mein Wissen in diesem Bereich kontinuierlich weiter erweitern. Die Zusammenarbeit mit den Besten der Branche ermöglichte es mir, das geteilte Wissen für meine berufliche Entwicklung zu nutzen. Ich bin für dankbar für die tollen Jahre und erinnere mich gerne an diese Tage zurück",
+            text: "Meine berufliche Laufbahn nahm ihren Anfang in der spannenden Welt der gehobenen Gastronomie. Bereits in jungen Jahren konnte ich Erfahrungen im Umgang mit einer anspruchsvollen Zielgruppe sammeln, die besondere Aufmerksamkeit und Zuwendung erforderte. Ein ausgeprägtes Qualitätsbewusstsein und ein individueller, einfühlsamer Umgang mit Menschen wurden schnell zu wesentlichen Teilen meiner beruflichen Identität. Es folgten zehn tolle Jahre, in denen ich mich beruflich und persönlich weiterentwickeln konnte. Meine Leidenschaft für Wein und die begleitete mich all die Jahre und wurde zu einem wichtigen Bestandteil meines Lebens.",
           },
         ],
       },
@@ -33,15 +33,15 @@ export const sections = [
         paragraphs: [
           {
             id: 4,
-            text: "Die Pandemie und die damit verbundenen Folgen hat unsere Welt, wie wir sie kannten völlig auf den Kopf gestellt.  Kaum eine andere Branche hatte so schwer mit den Folgen zu kämpfen, wie die Gastronomie. Auch ich musste mich mit existenziellen Fragen auseinander setzen und wurde dazu angehalten, meine berufliche Zukunft zu überdenken.  Mit der Diagnose einer Lebensmittelunverträglichkeit, erhielt ich ebenfalls die Nachricht, meinen Beruf, so wie ich ihn kenne und gelebt habe, nicht mehr mit der selben Leidenschaft ausüben kann, wie zuvor.",
+            text: "Die Pandemie stellte unsere Welt, wie wir sie kannten, auf den Kopf, und besonders die Gastronomie hatte schwer mit den Folgen zu kämpfen. Auch ich musste mich mit existenziellen Fragen auseinandersetzen und meine berufliche Zukunft neu überdenken. Etwa zur selben Zeit erhielt ich damals die Diagnose einer Lebensmittelunverträglichkeit, welche es mir unmöglich machte, meinen Beruf mit derselben Leidenschaft auszuüben wie zuvor.",
           },
           {
             id: 5,
-            text: "Mit diesem Rückschlag, war eine Rückkehr in den Job nun völlig ausgeschlossen. Es folgte eine Zeit, in der ich mich selbst neu kennen lernen musste. Welche Interessen habe ich noch? Welche Branche bietet mir die Chance, beruflich nochmal neu anzufangen und bringt die Sicherheit, die mir verloren ging. Eine erste Recherche zu den Umschulungsberufen brachte mir nicht den erhofften Beruf, mit dem ich mich auch identifizieren konnte. Der damals noch unbekannte neue Ausbildungsberuf Kaufmann im E-Commerce wurde nur von wenigen Bildungsträgern angeboten. Meine Neugier war sofort geweckt und der Rahmenplan der IHK gab mir eine Übersicht der einzelnen Ausbildungsinhalte und Zukunftsperspektiven. Als digital Native bin ich mit allen gängigen Technologien & Medien aufgewachsen und war in diesem Bereich auch immer sehr interessiert. Ohne lang nachdenken zu müssen, entschied ich mich für den Neuanfang  in der Tech-Branche und die Möglichkeit ein Teil der Digitalisierung zu werden.",
+            text: "Da eine Rückkehr in den alten Job nun völlig ausgeschlossen war, begann für mich eine Phase der Selbstfindung. Meine persönlichen Interessen und die Unsicherheiten der damaligen Zeit beeinflussten meine Suche nach einer neuen beruflichen Perspektive und halfen mir dabei, meine Ziele im Leben neu zu definieren. Mit der Umschulung zum Kaufmann im E-Commerce fand ich schließlich eine neue berufliche Herausforderung, die mir die Möglichkeit bot, meine Interessen und Fähigkeiten zu vereinen und in einem neuen Berufsfeld einzusetzen.",
           },
           {
             id: 6,
-            text: "Der Lehrplan erforderte die Planung und Umsetzung eines Onlineshops mit Wordpress und WooCommerce. Die hier begrenzten Möglichkeiten haben mich mit meinen Ideen, der Planung und Umsetzung stark eingeschränkt. An diesem Punkt habe ich mich zum ersten Mal mit HTML und CSS auseinander gesetzt, um meine Ideen optimal zu visualisieren. Hier ist es dann auch um mich geschehen und ich habe mich dabei erwischt, wie ich nächtelang mit den Entwicklertools versucht habe Code zu verstehen. Das programmieren war wirklich das Letzte woran ich gedacht habe. Ich hatte es nie in Betracht gezogen, dass ich dafür ein Verständnis entwickeln könnte und Spass daran habe. Heute bin ich  dankbar, dass mir dieses Wordpress Projekt eine völlig neue Möglichkeit offenbart hat meinen Weg zu gestalten.",
+            text: "Während der Umschulung realisierte ich erste E-Commerce-Projekte und lernte nützliche Tools wie Wordpress und WooCommerce kennen. Mit der Planung und Entwicklung eines Onlineshops lernte ich allerdings auch die Grenzen solcher Tools kennen. Um meine Idee bestmöglich umsetzen zu können, habe ich mich hier das erste Mal mit HTML und CSS auseinandergesetzt. Fasziniert von den Möglichkeiten in der Webentwicklung beschäftigte ich mich von nun an mit dem Thema und entdeckte eine völlig unerwartete Leidenschaft für das Programmieren.",
           },
         ],
       },
@@ -51,7 +51,7 @@ export const sections = [
         paragraphs: [
           {
             id: 7,
-            text: "Mit meiner beruflichen Entscheidung habe ich zahlreiche neue Interessen entwickelt, die ich auch privat mit Spannung verfolge. Das programmieren ist nun vielmehr ein Hobby und ich lerne jeden Tag dazu. Ansonsten bin ich ein sehr Kultur begeisterter Mensch. Der Mittelpunkt in meinem Leben ist die Musik, ohne die ich nicht atmen könnte. Ich interessiere mich für Grafikdesign, Digital Art und suche Inspiration oft in der Geschichte oder der Architektur.",
+            text: "Mit meiner beruflichen Entscheidung habe ich zahlreiche neue Interessen entwickelt, die ich auch persönlich mit Spannung verfolge. Das Programmieren ist nun auch ein Hobby, bei dem ich jeden Tag dazu lerne. Ich bin ein kulturell geprägter Mensch und begeistere mich für Kunst, Musik und Geschichte, aber auch für Themen wie Design, Technik und Architektur.",
           },
         ],
       },
@@ -60,12 +60,6 @@ export const sections = [
   {
     id: "education",
     title: "Bildung",
-    paragraphs: [
-      {
-        id: 8,
-        text: "Die Erstausbildung zum Restaurantfachmann bestimmte meine weitere berufliche Laufbahn in der Gastronomie. Das Thema Wein war zu jeder Zeit präsent und hielt mich dazu an, mich in diesem Bereich kontinuierlich weiterzubilden.",
-      },
-    ],
     subsections: [
       {
         id: "e-commerce",
@@ -73,7 +67,7 @@ export const sections = [
         paragraphs: [
           {
             id: 10,
-            text: "Umschulung zum Kaufmann im E-Commerce. Neben den klassischen kaufmännischen Ausbildungsinhalten lag hier der Fokus auf Onlinemarketing, Medienwirtschaft, Visuelle Gestaltung und Grafikbearbeitung. Schulische Ausbildung mit Umsetzung verschiedener Projekte im Marketing und Erstellung eines Onlineshops.",
+            text: "Die Umschulung zum Kaufmann im E-Commerce war für mich der erste Schritt in eine neue berufliche Zukunft. Mit den klassischen kaufmännischen Ausbildungsinhalten wurden die Fachbereiche anderer Berufe kombiniert und an den Onlinehandel angepasst.",
           },
         ],
         company: "GPB mbH Berlin-Neukölln",
@@ -103,7 +97,7 @@ export const sections = [
         paragraphs: [
           {
             id: 11,
-            text: "Der WSET Level II ist ein Kurs für den Erlang grundlegender und fortgeschrittener Weinkenntnisse. Detaillierte Einführung in die wichtigsten Weinstile, Traubensorten, Weingebiete und Degustationstechniken. Verkostung und Selbststudium.'pass with merit'",
+            text: "Das WSET Level II ist ein international anerkannter Kurs für den Erlang grundlegender und fortgeschrittener Weinkenntnisse. Die Inhalte geben eine detaillierte Einführung in die wichtigsten Weinstile, Rebsorten, Weingebiete und Degustationstechniken. Geprüft und zertifiziert durch die Wine Spirit Education Trust.",
           },
         ],
         company: "Wine Spirit Education Trust",
@@ -116,7 +110,7 @@ export const sections = [
         paragraphs: [
           {
             id: 12,
-            text: "Erstausbildung zum Restaurantfachmann. Vorwiegend im a la carte Geschäft, Theater Veranstaltungen oder Konzerte. Kategorie der Premium Residenzen im Luxussegment.",
+            text: "Betriebliche Erstausbildung zum Restaurantfachmann. Schwerpunkte der Ausbildung waren das a la carte Geschäft und der Veranstaltungsservice.",
           },
         ],
         company: "Tertianum Residenz Berlin",
@@ -128,7 +122,12 @@ export const sections = [
   {
     title: "Erfahrung",
     id: "experience",
-    paragraphs: [{ id: 13, text: "Neben meiner Berufserfahrung in der Gastronomie konnte ich erste Erfahrungen in der digitalen Arbeitswelt sammeln. Mit den erste Eindrücken wurden meine Ziele in dieser Branche auch deutlich. Ich blicke gespannt in die Zukunft und freue mich hier neu anzufanfgen." }],
+    paragraphs: [
+      {
+        id: 13,
+        text: "Mit der beruflichen Erfahrung konnte ich zahlreiche Fähigkeiten und Kompetenzen erwerben, die mir auch in meinem neuen Berufsfeld zugutekommen. Ich bin ein offener, kommunikativer Mensch, der gerne im Team arbeitet und sein Wissen mit anderen teilt. Durch die jahrelange Arbeit mit Menschen lernte ich die unterschiedlichsten Charaktere, Nationalitäten und Kulturen kennen. Dies erlaubte mir, Kundenwünsche zu interpretieren und individuell auf deren Bedürfnisse einzugehen. Mit dieser Fähigkeit kann ich heute das Nutzerverhalten analysieren und zur Verbesserung der User Experience beitragen.",
+      },
+    ],
     subsections: [
       {
         id: "bootcamp",
@@ -136,7 +135,7 @@ export const sections = [
         paragraphs: [
           {
             id: 14,
-            text: "Aus-/Weiterbildung zum Web Developer mit 540 Stunden Programmierpraxis(720 Unterrichtseinheiten).",
+            text: "Aus-/Weiterbildung zum Web Developer mit 540 Stunden Programmierpraxis (720 Unterrichtseinheiten). Folgende Inhalte wurden gelernt, diskutiert und in unterschiedlichen Aufgaben und Projekten vertieft: Shell, HTML, CSS, JavaScript, React, Next.js und Backend. Durch den Einsatz branchenüblicher Tools und agiler Arbeitsmethoden wurde die Zusammenarbeit im Team gefördert und die Entwicklung von Projekten in einem realistischen Umfeld simuliert. Mit dem Capstone Project hatten wir die Möglichkeit, das gelernte Wissen mit einer Web App umzusetzen. Von der Idee bis zur Umsetzung wurde das Projekt eigenständig geplant und entwickelt.  ",
           },
         ],
         company: "neuefische GmbH",
@@ -163,7 +162,12 @@ export const sections = [
       {
         id: "internship",
         title: "Praktikum Onlinemarketing",
-        paragraphs: [{ id: 15, text: "Lorem" }],
+        paragraphs: [
+          {
+            id: 15,
+            text: "Pflichtpraktikum im Rahmen der Umschulung zum Kaufmann im E-Commerce. Die Agentur Emilian ist eine inhabergeführte Full Service Agentur im Bereich Onlinemarketing, Webdesign und Grafik. Die Kundenvielfalt gab mir zahlreiche Einblicke und die Möglichkeit auf Mitwirkung in verschiedenen Kundenprojekten. Zu meinen Tätigkeiten zählten beispielsweise die Entwicklung von Social Media Konzepten, die Erstellung grafischer Inhalte für Social Recruiting & Advertising und die Umsetzung von Kundenwünschen/-änderungen auf der Website.",
+          },
+        ],
         company: "Agentur Emilian",
         date: "Juni 2022 - Januar 2023",
         city: "Berlin/Remote",
@@ -179,7 +183,7 @@ export const sections = [
         paragraphs: [
           {
             id: 16,
-            text: "Mit über 10 Jahren Berufserfahrung und insgesamt 15 Jahren im Job blicke ich stolz auf eine lange Karriere in der Gastronomie zurück. Ich hatte das Privileg der Berliner Spitzengastronomie anzugehören. Die Cordbar Berlin als beste Weinbar Deutschlands und die Küche von Tim Raue als zwei Sterne Koch waren lange Zeit mein zu Hause. Des Weiteren konnte ich viele Veranstaltungen im Service begleiten und habe Erfahrung mit jeder Art von Etablesment. Zuletzt konnte ich ebenfalls Erfahrungen als Weinfachberater im Einzehandel sammeln und die Stammkunden einer Weinhandlung in Prenzlauer Berg beraten. Die Arbeit mit Wein erweiterte meine Aufgabenbereich auf Lager, Einkauf und Logistik, Zollbearbeitung und Guest Relation Management.",
+            text: "Mit über 10 Jahren Berufserfahrung und insgesamt 15 Jahren im Job blicke ich stolz auf eine lange Karriere als Gastgeber zurück. Als fester Bestandteil der Berliner Spitzengastronomie habe ich stets in internationalen Teams gearbeitet und Gäste aus allen Teilen der Welt betreut. Die Cordbar Berlin als beste Weinbar Deutschlands und die Küche von Tim Raue mit zwei Michelin Sternen waren lange Zeit mein zu Hause. Zuletzt konnte ich ebenfalls Erfahrungen im Einzelhandel sammeln und die Kunden einer Weinhandlung mit meinem Fachwissen beraten.",
           },
         ],
         city: "Berlin, Köln",
