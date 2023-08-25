@@ -1,3 +1,5 @@
+"use client";
+
 import { StyledWrapper, StyledLink, SvgBackground } from "./HeroBanner.styled";
 import { Arrow } from "@/components/Icons";
 import { Display, BodyMedium } from "@/ui/Text/Text.styled";
