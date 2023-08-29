@@ -9,11 +9,11 @@ export const sections = [
       },
       {
         id: 1,
-        text: "Der Wunsch nach einer neuen beruflichen Perspektive bot mir die Gelegenheit, mich neu zu erfinden und spannende Interessen zu etdecken, denen ich mit großer Begeisterung folgen kann. Heute möchte ich die kürzlich erlangten Erfolge, Meilensteine und Erfahrungen teilen, die mir den Weg in eine neue berufliche Zukunft geebnet haben.",
+        text: "Der Wunsch nach einer neuen beruflichen Perspektive bot mir die Gelegenheit, mich neu zu erfinden und spannende Interessen zu entdecken, denen ich mit großer Begeisterung folgen kann. Heute möchte ich die kürzlich erlangten Erfolge, Meilensteine und Erfahrungen teilen, die mir den Weg in eine neue berufliche Zukunft geebnet haben.",
       },
       {
         id: 2,
-        text: "Bevor ich darauf eingehe , werfe ich einen kurzen Blick in die Vergangenheit. Dies soll veranschaulichen, wie mein beruflicher Werdegang meine persönliche Entwicklung geprägt und mich zu dem Menschen gemacht hat, der ich heute bin. Dabei will ich auch einige der Fragen und Gedanken teilen, die mich beschäftigt haben und die letztendlich den Anstoß gaben, einen mutigen neuen Weg einzuschlagen.",
+        text: "Bevor ich darauf eingehe, werfe ich einen kurzen Blick in die Vergangenheit. Dies soll veranschaulichen, wie mein beruflicher Werdegang meine persönliche Entwicklung geprägt und mich zu dem Menschen gemacht hat, der ich heute bin. Dabei will ich auch einige der Fragen und Gedanken teilen, die mich beschäftigt haben und die letztendlich den Anstoß gaben, einen mutigen neuen Weg einzuschlagen.",
       },
     ],
     subsections: [
@@ -23,7 +23,7 @@ export const sections = [
         paragraphs: [
           {
             id: 3,
-            text: "Meine berufliche Laufbahn nahm ihren Anfang in der spannenden Welt der gehobenen Gastronomie. Bereits in jungen Jahren konnte ich Erfahrungen im Umgang mit einer anspruchsvollen Zielgruppe sammeln, die besondere Aufmerksamkeit und Zuwendung erforderte. Ein ausgeprägtes Qualitätsbewusstsein und ein individueller, einfühlsamer Umgang mit Menschen wurden schnell zu wesentlichen Teilen meiner beruflichen Identität. Es folgten zehn tolle Jahre, in denen ich mich beruflich und persönlich weiterentwickeln konnte. Meine Leidenschaft für Wein und die begleitete mich all die Jahre und wurde zu einem wichtigen Bestandteil meines Lebens.",
+            text: "Meine berufliche Laufbahn nahm ihren Anfang in der spannenden Welt der gehobenen Gastronomie. Bereits in jungen Jahren konnte ich Erfahrungen im Umgang mit einer anspruchsvollen Zielgruppe sammeln, die besondere Aufmerksamkeit und Zuwendung erforderte. Ein ausgeprägtes Qualitätsbewusstsein und ein individueller, einfühlsamer Umgang mit Menschen wurden schnell zu wesentlichen Teilen meiner beruflichen Identität. Es folgten zehn tolle Jahre, in denen ich mich beruflich und persönlich weiterentwickeln konnte. Die Leidenschaft für Wein begleitete mich all die Jahre und wurde zu einem wichtigen Bestandteil meines Lebens.",
           },
         ],
       },
