@@ -13,6 +13,8 @@ import IconList from "src/ui/IconList";
 import SubSectionInfo from "src/ui/SubsectionInfo";
 import Paragraphs from "src/ui/Paragraphs";
 import Section from "src/ui/Section";
+import Link from "next/link";
+import { Github } from "../Icons";
 
 const SectionItem = ({ section }) => (
   <StyledListItem key={section.id}>
@@ -31,8 +33,19 @@ const SubSectionItem = ({ subsection }) => (
       <SubSectionInfo {...subsection} />
       {subsection.icons && (
         <>
-          <Accent>Software & Tools</Accent>
+          <Accent>Tools & Technologies</Accent>
           <IconList icons={subsection.icons} />
+        </>
+      )}
+      {subsection.links && (
+        <>
+          <Accent>GitHub & Live Demo</Accent>
+          <Link
+            href={subsection.links[0].url}
+            aria-label={subsection.links[0].name}
+          >
+            <Github style={{ fontSize: "1.5rem" }} />
+          </Link>
         </>
       )}
     </Section>

@@ -1,3 +1,5 @@
+"use client";
+
 import StyledComponentsRegistry from "@/lib/registry";
 import { GlobalStyle } from "@/styles/globals";
 import { Reset } from "@/styles/reset";
