@@ -183,7 +183,7 @@ export const sections = [
         paragraphs: [
           {
             id: 16,
-            text: "Mit über 10 Jahren Berufserfahrung und insgesamt 15 Jahren im Job blicke ich stolz auf eine lange Karriere als Gastgeber zurück. Als fester Bestandteil der Berliner Spitzengastronomie habe ich stets in internationalen Teams gearbeitet und Gäste aus allen Teilen der Welt betreut. Die Cordbar Berlin als beste Weinbar Deutschlands und die Küche von Tim Raue mit zwei Michelin Sternen waren lange Zeit mein zu Hause. Zuletzt konnte ich ebenfalls Erfahrungen im Einzelhandel sammeln und die Kunden einer Weinhandlung mit meinem Fachwissen beraten.",
+            text: "Mit über 10 Jahren Berufserfahrung und insgesamt 15 Jahren im Job blicke ich stolz auf eine lange Karriere als Gastgeber zurück. Als fester Bestandteil der Berliner Spitzengastronomie habe ich stets in internationalen Teams gearbeitet und Gäste aus allen Teilen der Welt betreut. Die Cordobar Berlin als beste Weinbar Deutschlands und die Küche von Tim Raue mit zwei Michelin Sternen waren lange Zeit mein zu Hause. Zuletzt konnte ich ebenfalls Erfahrungen im Einzelhandel sammeln und die Kunden einer Weinhandlung mit meinem Fachwissen beraten.",
           },
         ],
         city: "Berlin, Köln",

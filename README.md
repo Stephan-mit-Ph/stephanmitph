@@ -15,16 +15,5 @@ If you running into any issues or have any questions, please let me know. It wou
 
 - Responsive Typography and Spacing without media queries using modern CSS
 - Client Side Component Rendering for interactivity and performance
-- Continious SEO and Accessibility improvements
-- GDPR & Cookie Consent
-- Google Analytics
-
-### In Progress
-
-- Content
-- Animations
-- Refactoring
-
-#### Possible Future Topics
-
-- Blog about my Learning Journey
+- React Intersection Observer Hook
+- useDimensions Hook

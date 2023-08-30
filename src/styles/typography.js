@@ -43,10 +43,4 @@ export const typography = `
     --font-heading-1: clamp(2.49rem, calc(1.95rem + 2.28vw), 4.01rem);
     --font-title: clamp(1.45rem, calc(0.90rem + 1.98vw), 4.01rem);
     --font-size-title: 2rem;
-    --color-title: #333;
-    --font-size-subtitle: 1.5rem;
-    --color-subtitle: #666;
-    --font-size-paragraph: 1rem;
-    --color-paragraph: #999;
-
 `;
