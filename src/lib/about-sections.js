@@ -97,7 +97,7 @@ export const sections = [
         paragraphs: [
           {
             id: 11,
-            text: "Das WSET Level II ist ein international anerkannter Kurs für den Erlang grundlegender und fortgeschrittener Weinkenntnisse. Die Inhalte geben eine detaillierte Einführung in die wichtigsten Weinstile, Rebsorten, Weingebiete und Degustationstechniken. Geprüft und zertifiziert durch die Wine Spirit Education Trust.",
+            text: "Das WSET Level II ist ein international anerkannter Kurs für den Erlang grundlegender und fortgeschrittener Weinkenntnisse. Die Inhalte geben eine detaillierte Einführung in die wichtigsten Weinstile, Rebsorten, Weingebiete und Degustationstechniken. Geprüft und zertifiziert durch den Wine Spirit Education Trust.",
           },
         ],
         company: "Wine Spirit Education Trust",
@@ -165,7 +165,7 @@ export const sections = [
         paragraphs: [
           {
             id: 15,
-            text: "Pflichtpraktikum im Rahmen der Umschulung zum Kaufmann im E-Commerce. Die Agentur Emilian ist eine inhabergeführte Full Service Agentur im Bereich Onlinemarketing, Webdesign und Grafik. Die Kundenvielfalt gab mir zahlreiche Einblicke und die Möglichkeit auf Mitwirkung in verschiedenen Kundenprojekten. Zu meinen Tätigkeiten zählten beispielsweise die Entwicklung von Social Media Konzepten, die Erstellung grafischer Inhalte für Social Recruiting & Advertising und die Umsetzung von Kundenwünschen/-änderungen auf der Website.",
+            text: "Pflichtpraktikum im Rahmen der Umschulung zum Kaufmann im E-Commerce. Die Agentur Emilian ist eine inhabergeführte Full Service Agentur in den Bereichen Onlinemarketing, Webdesign und Grafik. Die Kundenvielfalt gab mir zahlreiche Einblicke und die Möglichkeit auf Mitwirkung in verschiedenen Kundenprojekten. Zu meinen Tätigkeiten zählten beispielsweise die Entwicklung von Social Media Konzepten, die Erstellung grafischer Inhalte für Social Recruiting & Advertising und die Umsetzung von Kundenwünschen/-änderungen auf der Website.",
           },
         ],
         company: "Agentur Emilian",
