@@ -6,6 +6,7 @@ export const StyledMain = styled.main`
   height: calc(100% - 80px);
   width: 100%;
   display: flex;
+  flex-direction: column;
   justify-content: center;
   align-items: center;
   max-width: 1440px;
