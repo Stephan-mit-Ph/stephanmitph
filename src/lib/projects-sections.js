@@ -31,7 +31,7 @@ export const sections = [
         paragraphs: [
           {
             id: 1,
-            text: "Als Junior Webentickler war die erste eigene Website ein Herzensprojekt. Hier konnte ich mich ausprobieren und verschiedene Ansätze & Lösungen testen. Neue Themen waren für mich die Verwendung von 'modern css' mit der clamp Funktion und Animationen mit Framer Motion. Mit dem React Intersection Observer Hook lernte ich auch einen neuen Hook kennen, den ich für die Sidebar und jeweiligen Sections verwendet habe. Anstelle von Breakpoints habe ich einen Hook implementiert, der den Viewport des Users überwacht und das Design responsive anpasst. Das Major Update von Next.js war für mich Anlass, die Page mit dem neuen App Router Feature aufzusetzen.",
+            text: "Als Junior Webentwickler war die erste eigene Website ein Herzensprojekt. Hier konnte ich mich ausprobieren und verschiedene Ansätze & Lösungen testen. Neue Themen waren für mich die Verwendung von 'modern css' mit der clamp Funktion und Animationen mit Framer Motion. Mit dem React Intersection Observer Hook lernte ich auch einen neuen Hook kennen, den ich für die Sidebar und jeweiligen Sections verwendet habe. Anstelle von Breakpoints habe ich einen Hook implementiert, der den Viewport des Users überwacht und das Design responsive anpasst. Das Major Update von Next.js war für mich Anlass, die Page mit dem neuen App Router Feature aufzusetzen.",
           },
         ],
       },
